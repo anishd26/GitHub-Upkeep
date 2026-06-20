@@ -1,3 +1,1 @@
-# Github-Badges
-Preview
-Confirming Updates
+Github-Badges
